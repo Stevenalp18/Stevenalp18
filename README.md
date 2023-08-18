@@ -4,9 +4,9 @@ I am Steven Perez, I am currently working on an Elden Ring based project with as
 
 Check out the other projects I have below, such as the 
 
-Quote Generator (API, React, Tailwind, Vite)
-Travel Journey (React, Tailwind, Vite)
-Personal Portfolio (React, Tailwind, Vite)
+<a href='https://quote-generator-stevenalp18.netlify.app/'>Quote Generator</a> (API, React, Tailwind, Vite)
+<a href='https://stevenalp.com/'>Personal Portfolio</a> (React, Tailwind, Vite)
+<a href='https://travel-journey-stevenalp18.netlify.app/'>Travel Journey</a> (React, Tailwind, Vite)
 
 Reach out if you have any questions via my portfolio, I would be more than happy to chat! :)
 <!--
