@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Steven Perez, I am currently working on an Elden Ring based project with async/await and fetch api, I am making it so fans like myself can use it to refer to certain items and also because I get to practice more of my React and API skills. Check it out Below! <a href='https://elden-ring-directory-stevenalp18.netlify.app/'>Elden Ring Directory</a>.
+I am Steven Perez, I am currently working on two projects, an Elden Ring based project with async/await and fetch api, I am making it so fans like myself can use it to refer to certain items and also because I get to practice more of my React and API skills. Check it out Below! <a href='https://elden-ring-directory-stevenalp18.netlify.app/'>Elden Ring Directory</a>.
+
+The second project is a small weather application, where I use three different API's to connect my app together, I attempt to use redux as well for simple global data, the repository is attached <a href="https://github.com/Stevenalp18/weather-app">here</a>
+
 
 Check out the other projects I have below, such as the 
 
