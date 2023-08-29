@@ -2,9 +2,7 @@
 
 I am Steven Perez, 
 
-I am currently working on two projects, an Elden Ring based project with async/await and the elden ring API, I am making it so fans like myself can use it to refer to certain items while learning more about certain web technologies. Check out my <a href='https://github.com/Stevenalp18/elden-ring-directory'>repo</a> until I get it live!
-
-The second project is a small weather application, where I use three different API's (Current, Forecast, Search) to connect my app together, I attempt to use redux as well for simple global data, the repository is attached <a href="https://github.com/Stevenalp18/weather-app">here</a>
+The am currently working on a small weather application, where I use three different API endpoints (Current, Forecast, Search) to connect my app together, I attempt to use redux as well for simple global data, the repository is attached <a href="https://github.com/Stevenalp18/weather-app">here</a> I also currently have it deployed via Netlify although it is still under development! <a href='https://weather-app-stevenalp18.netlify.app/'>Weather App</a>
 
 
 Check out the other projects I have below, such as the 
