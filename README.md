@@ -13,6 +13,9 @@ Check out the other projects I have below, such as the
 <br />
 <a href='https://travel-journey-stevenalp18.netlify.app/'>Travel Journey</a> (React, Tailwind, Vite)
 <br />
+<a href='https://bootstrap-nucamp-stevenalp18.netlify.app/'>Nucampsite</a> (Bootstrap, Javascript)
+<br />
+<a href="https://weight-conversion-stevenalp18.netlify.app/">Weight Conversion</a> (Javascript, Css, Html)
 Reach out if you have any questions via my portfolio, I would be more than happy to chat! :)
 <!--
 **Stevenalp18/Stevenalp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
