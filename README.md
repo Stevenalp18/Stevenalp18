@@ -2,7 +2,7 @@
 
 I am Steven Perez, 
 
-The am currently working on a small weather application, where I use three different API endpoints (Current, Forecast, Search) to connect my app together, I attempt to use redux as well for simple global data, the repository is attached <a href="https://github.com/Stevenalp18/weather-app">here</a> I also currently have it deployed via Netlify although it is still under development! <a href='https://weather-app-stevenalp18.netlify.app/'>Weather App</a>
+The am currently working on a small weather application, where I use three different API endpoints (Current, Forecast, Search) to connect my app together, some redux as well for simple global data, the repository is attached <a href="https://github.com/Stevenalp18/weather-app">here</a> I also currently have it deployed via Netlify although it is still under development! <a href='https://weather-app-stevenalp18.netlify.app/'>Weather App</a>
 
 
 Check out the other projects I have below, such as the 
