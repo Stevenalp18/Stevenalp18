@@ -2,12 +2,15 @@
 
 I am Steven Perez, 
 
-I am currently working on my own personal blog and remaking my portfolio to a more simple, markdown based, blog/portfolio infused with astro for static site rendering to make my website fast and SEO friendly! 
-<a href="https://github.com/Stevenalp18/portfolio-blog">Portfolio/Blog</a>
+I am currently working on my own personal blog and remaking my portfolio to a more simple, yet personalized, markdown based, blog/portfolio infused with astro for static site rendering. I use Astro because it also makes my website fast and SEO friendly! 
+<a href="https://github.com/Stevenalp18/portfolio-blog">Github Portfolio/Blog</a>
+<br />
+<a href="https://portfolio-blog-stevenalp18.netlify.app/">Live Link to actual website</a>
 
 Check out the other projects I have below, such as the 
 
 <a href="https://weather-app-stevenalp18.netlify.app/">Weather App</a> (API, React, Tailwind, Redux, Vite)
+<br />
 <a href='https://quote-generator-stevenalp18.netlify.app/'>Quote Generator</a> (API, React, Tailwind, Vite)
 <br/>
 <a href='https://stevenalp.com/'>Personal Portfolio</a> (React, Tailwind, Vite)
