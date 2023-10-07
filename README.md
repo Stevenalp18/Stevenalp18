@@ -7,7 +7,7 @@ I am currently working on my own personal blog and remaking my portfolio to a mo
 
 Check out the other projects I have below, such as the 
 
-<a href="https://github.com/Stevenalp18/weather-app">Weather App</a> (API, React, Tailwind, Redux, Vite)
+<a href="https://weather-app-stevenalp18.netlify.app/">Weather App</a> (API, React, Tailwind, Redux, Vite)
 <a href='https://quote-generator-stevenalp18.netlify.app/'>Quote Generator</a> (API, React, Tailwind, Vite)
 <br/>
 <a href='https://stevenalp.com/'>Personal Portfolio</a> (React, Tailwind, Vite)
