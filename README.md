@@ -2,10 +2,7 @@
 
 I am Steven Perez, 
 
-I am currently working on my own personal blog and remaking my portfolio to a more simple, yet personalized, markdown based, blog/portfolio infused with astro for static site rendering. I use Astro because it also makes my website fast and SEO friendly! 
-<a href="https://github.com/Stevenalp18/portfolio-blog">Github Portfolio/Blog</a>
-<br />
-<a href="https://portfolio-blog-stevenalp18.netlify.app/">Live Link to actual website</a>
+Currently am working on a fullstack mixology application, using the MERN stack! 
 
 Check out the other projects I have below, such as the 
 
