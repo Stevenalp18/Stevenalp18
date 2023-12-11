@@ -4,6 +4,8 @@ I am Steven Perez,
 
 Currently am working on a fullstack mixology application, using the MERN stack! 
 
+I am also building a client website using Astro and Tailwind!
+
 Check out the other projects I have below, such as the 
 
 <a href="https://weather-app-stevenalp18.netlify.app/">Weather App</a> (API, React, Tailwind, Redux, Vite)
