@@ -3,6 +3,7 @@
 I am Steven Perez, 
 
 Currently am working on a fullstack mixology application, using the MERN stack! 
+<a href="https://mixnjoy-stevenalp18.netlify.app/"/>Mix n'joy</a>
 
 I am also building a client website using Astro and Tailwind!
 
